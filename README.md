@@ -1,3 +1,3 @@
 # SoftUni-QA--Course-Playground
 QA Bug System
-Fixed Bug
+Fixed Bug Negative money
